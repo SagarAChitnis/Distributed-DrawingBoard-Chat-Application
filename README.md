@@ -9,6 +9,8 @@ The DistributedWhiteBoard folder contains the Client implementation while the Se
 ### Graphical User Interface:
 Swing and JavaFX were considered as two primary options for the GUI framework. On exploring the frameworks, JavaFX was chosen as the primary framework as it has rich GUI options, libraries and eminence documentation available to support our development. However, all the requests, inputs and notification pop up dialog boxes are implemented in Java Swing.
 
+<img src="MultiUser.PNG" width="700" heigth="700">
+
 ### Network Technology
 Sockets have exclusively been used over TCP to perform communication between the Server and respective client(s) in the project.
 
